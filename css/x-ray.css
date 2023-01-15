@@ -1,0 +1,6 @@
+.js-x-ray-section{ position:relative; background: #fff;}
+
+.js-img-box__in {position: absolute; left: 0; top:0;
+background:#fff;
+clip-path: circle(0px at 0 0);
+}
